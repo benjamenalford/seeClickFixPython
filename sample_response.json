@@ -1,0 +1,376 @@
+{
+    "issues": [{
+        "id": 11864430,
+        "status": "Acknowledged",
+        "summary": "Other",
+        "description": "Area filled with trash!!!",
+        "lat": 39.0375214023879,
+        "lng": -95.6671707798686,
+        "address": "900 Se Maryland Ave Topeka 66607, United States",
+        "created_at": "2022-02-11T16:25:59-05:00",
+        "acknowledged_at": "2022-02-11T16:26:11-05:00",
+        "closed_at": null,
+        "url": "https://seeclickfix.com/api/v2/issues/11864430",
+        "media": {
+            "video_url": null,
+            "image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejFFWFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2eb26fc9ad1fed2809b5287deaede5612f1f60a2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/image.jpg",
+            "image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejFFWFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2eb26fc9ad1fed2809b5287deaede5612f1f60a2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg",
+            "representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejFFWFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2eb26fc9ad1fed2809b5287deaede5612f1f60a2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
+        }
+    }, {
+        "id": 11854694,
+        "status": "Closed",
+        "summary": "Trees and Tree Limbs",
+        "description": "This branch is hanging over the sidewalk and looks like it might break. ",
+        "lat": 39.0516800714187,
+        "lng": -95.6923724915037,
+        "address": "905 Sw Lincoln St Topeka 66606, United States",
+        "created_at": "2022-02-09T17:37:58-05:00",
+        "acknowledged_at": "2022-02-09T17:38:12-05:00",
+        "closed_at": "2022-02-10T09:51:49-05:00",
+        "url": "https://seeclickfix.com/api/v2/issues/11854694",
+        "media": {
+            "video_url": null,
+            "image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelVlWFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--795c531d0d0ffe10ac107df38cf8e59874904088/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/image.jpg",
+            "image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelVlWFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--795c531d0d0ffe10ac107df38cf8e59874904088/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg",
+            "representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelVlWFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--795c531d0d0ffe10ac107df38cf8e59874904088/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
+        }
+    }, {
+        "id": 11852869,
+        "status": "Acknowledged",
+        "summary": "Pothole",
+        "description": "The pothole is on 17th street just before you enter the bridge on 17th street bridge intersects with Adams street as you are traveling East on 17th street. If you could repair these potholes it would make it much safer traveling these streets. ",
+        "lat": 39.0370398787328,
+        "lng": -95.6712734699249,
+        "address": "600-698 Se 17th St Topeka, KS, 66607, USA",
+        "created_at": "2022-02-09T12:43:02-05:00",
+        "acknowledged_at": "2022-02-09T12:43:07-05:00",
+        "closed_at": null,
+        "url": "https://seeclickfix.com/api/v2/issues/11852869",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories/pothole-e09869431979395692cc8e63399760868f40c06b83c09dfc701458aa1412bce8.png"
+        }
+    }, {
+        "id": 11852838,
+        "status": "Acknowledged",
+        "summary": "Pothole",
+        "description": "There is a pothole at 17th and Topeka Blvd. on the north bound land almost in front of the Quick Shop it is bad enough that it can cause an accident especially small auto's. ",
+        "lat": 39.0369400517256,
+        "lng": -95.6828698775186,
+        "address": "Sw 17th St & Sw Topeka Blvd Topeka, KS, 66612, USA",
+        "created_at": "2022-02-09T12:37:11-05:00",
+        "acknowledged_at": "2022-02-09T12:37:17-05:00",
+        "closed_at": null,
+        "url": "https://seeclickfix.com/api/v2/issues/11852838",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories/pothole-e09869431979395692cc8e63399760868f40c06b83c09dfc701458aa1412bce8.png"
+        }
+    }, {
+        "id": 11852731,
+        "status": "Acknowledged",
+        "summary": "Police General Issue",
+        "description": "Silver Subaru Outback. Parked on the street, ways out from the crub, expired tag. Makes it hard to get out of driveway the way it is parked",
+        "lat": 39.0451880120883,
+        "lng": -95.7093339765953,
+        "address": "1218 Sw Medford Ave Topeka, KS, 66604, USA",
+        "created_at": "2022-02-09T12:21:41-05:00",
+        "acknowledged_at": "2022-02-09T12:21:46-05:00",
+        "closed_at": null,
+        "url": "https://seeclickfix.com/api/v2/issues/11852731",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories_trans/no-image-af3faf07f478451d4ca455f92af96dd763f686e943607309ed059ef4fe13be21.png"
+        }
+    }, {
+        "id": 11852433,
+        "status": "Acknowledged",
+        "summary": "Loud pedestrian crossing",
+        "description": "The traffic light at  101 SE 9th St has an audible pedestrian crossing feature. This in itself is fantastic and is very helpful for everyone who uses it. However the noise coming from the feature is exceptionally loud, especially at night. This is more noticeable when there is no noise from traffic to help cancel out the noise from the crossing.\n\n I live in an apartment nearby and at night I can hear the sounds from the pedestrian crossing from the 10th floor of my apartment building which will constantly repeat through the entire night.\n\nI wanted to see if it was possible to reduce the sound coming from the crossing to a lower audio level. Enough so that it doesn't echo down the streets but still loud enough for those using it to hear.\n\nThank you ",
+        "lat": 39.0473627050247,
+        "lng": -95.6751492619515,
+        "address": "Se 9th St & S Kansas Ave Topeka, KS, 66612, USA",
+        "created_at": "2022-02-09T11:38:19-05:00",
+        "acknowledged_at": "2022-02-09T11:38:23-05:00",
+        "closed_at": null,
+        "url": "https://seeclickfix.com/api/v2/issues/11852433",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories/traffic-07dac7352108d9ef532c212ed47f610e2546053f1ddf3efac0d5db81fedee193.png"
+        }
+    }, {
+        "id": 11851623,
+        "status": "Acknowledged",
+        "summary": "Utility Work Damage",
+        "description": "This is the sewage line to their house that had sewage flowing out of a couple months ago and I smell sewage so bad outside not sure if this is safe or what but I feel sick to my stomach how bad it smells not for sure who I contact for this or what but it's not sanitary at all!! ",
+        "lat": 39.0498104224034,
+        "lng": -95.706399679184,
+        "address": "1041 Sw Macvicar Ave Topeka, KS, 66604, USA",
+        "created_at": "2022-02-09T09:24:39-05:00",
+        "acknowledged_at": "2022-02-09T09:25:16-05:00",
+        "closed_at": null,
+        "url": "https://seeclickfix.com/api/v2/issues/11851623",
+        "media": {
+            "video_url": null,
+            "image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGdQWFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1479732ce1f16237dd57c05d6732b540158bf4bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/PXL_20220209_141550012.jpg",
+            "image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGdQWFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1479732ce1f16237dd57c05d6732b540158bf4bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/PXL_20220209_141550012.jpg",
+            "representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGdQWFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1479732ce1f16237dd57c05d6732b540158bf4bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/PXL_20220209_141550012.jpg"
+        }
+    }, {
+        "id": 11849500,
+        "status": "Acknowledged",
+        "summary": "Police General Issue",
+        "description": "Cars and trailers parked in yard and not on a solid surface",
+        "lat": 39.0458873,
+        "lng": -95.6458044,
+        "address": "540 Se Burr St Topeka KS 66607, United States",
+        "created_at": "2022-02-08T19:09:26-05:00",
+        "acknowledged_at": "2022-02-08T19:09:29-05:00",
+        "closed_at": null,
+        "url": "https://seeclickfix.com/api/v2/issues/11849500",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories_trans/no-image-af3faf07f478451d4ca455f92af96dd763f686e943607309ed059ef4fe13be21.png"
+        }
+    }, {
+        "id": 11847298,
+        "status": "Closed",
+        "summary": "Hydrant Leaking",
+        "description": "The fire hydrant located on the SW corner of 10th & Wayne intersection leaks water all day long through the curb. I have noticed for at least the last two weeks. This may already be on your list, but I wanted to check in as with winter weather this corner does freeze up due to the water leakage. ",
+        "lat": 39.0512597935155,
+        "lng": -95.7073974609375,
+        "address": "2401 Sw 10th Ave Topeka, KS, 66604, USA",
+        "created_at": "2022-02-08T12:46:29-05:00",
+        "acknowledged_at": "2022-02-08T12:46:33-05:00",
+        "closed_at": "2022-02-11T12:33:23-05:00",
+        "url": "https://seeclickfix.com/api/v2/issues/11847298",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories/hydrant-4d59f64dbbf46101dfa3af2f8860b91530bc7046a041170a7d677bc9f081ccb8.png"
+        }
+    }, {
+        "id": 11846696,
+        "status": "Closed",
+        "summary": "Pothole",
+        "description": "A pothole has been slowly growing every since some repairs were made to the road at this location. I believe Evergy had closed the right lane in order to make some repairs, they \"fixed\" the rectangle they cut out of the road, but in reality they left the rectangle with about an inch deep cut-out that has been growing into a pothole that is basically the width of the lane at this point. It has been present for about two weeks at this point",
+        "lat": 39.0486627031602,
+        "lng": -95.6739610433579,
+        "address": "100-198 Se 8th Ave Topeka, KS, 66603, USA",
+        "created_at": "2022-02-08T11:17:29-05:00",
+        "acknowledged_at": "2022-02-08T11:17:34-05:00",
+        "closed_at": "2022-02-09T15:05:11-05:00",
+        "url": "https://seeclickfix.com/api/v2/issues/11846696",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories/pothole-e09869431979395692cc8e63399760868f40c06b83c09dfc701458aa1412bce8.png"
+        }
+    }, {
+        "id": 11841328,
+        "status": "Acknowledged",
+        "summary": "Property Maintenance & Code Violations",
+        "description": "Needs paint and repair",
+        "lat": 39.0350570152677,
+        "lng": -95.6905030252833,
+        "address": "1809 Sw Central Park Ave Topeka, KS, 66604, USA",
+        "created_at": "2022-02-07T12:47:56-05:00",
+        "acknowledged_at": "2022-02-07T12:48:03-05:00",
+        "closed_at": null,
+        "url": "https://seeclickfix.com/api/v2/issues/11841328",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories_trans/no-image-af3faf07f478451d4ca455f92af96dd763f686e943607309ed059ef4fe13be21.png"
+        }
+    }, {
+        "id": 11837900,
+        "status": "Acknowledged",
+        "summary": "dangerous parking",
+        "description": "Vehicle parking in the front yard, jumping the curb, crossing the right of way and parking in the mud, dragging mud into the street, causing dangerous driving condition. Obviously invisible to the authorities that are paid to monitor these situations as we see them drive past continuously without taking any action.",
+        "lat": 39.0457330034327,
+        "lng": -95.7058429977418,
+        "address": "1200 Sw Macvicar Ave Topeka, KS, 66604, USA",
+        "created_at": "2022-02-06T21:20:13-05:00",
+        "acknowledged_at": "2022-02-06T21:20:18-05:00",
+        "closed_at": null,
+        "url": "https://seeclickfix.com/api/v2/issues/11837900",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories_trans/no-image-af3faf07f478451d4ca455f92af96dd763f686e943607309ed059ef4fe13be21.png"
+        }
+    }, {
+        "id": 11834635,
+        "status": "Closed",
+        "summary": "Dead animal on sidewalk ",
+        "description": "15th and Macvicar.   SE corner.   Plz pick up dead animal.   ",
+        "lat": 39.0396469873561,
+        "lng": -95.7058119847001,
+        "address": "1500 Sw Macvicar Ave Topeka, KS, 66604, USA",
+        "created_at": "2022-02-05T17:38:04-05:00",
+        "acknowledged_at": "2022-02-05T17:38:08-05:00",
+        "closed_at": "2022-02-08T14:13:27-05:00",
+        "url": "https://seeclickfix.com/api/v2/issues/11834635",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories/sidewalk-5658201dc0a14f32f84154c885dbf097fde8fd93632a7ab8769f109e33c10bdb.png"
+        }
+    }, {
+        "id": 11833753,
+        "status": "Closed",
+        "summary": "Snow or Ice Hazard",
+        "description": "Salt the side roads already. This is unacceptable. ",
+        "lat": 39.0350518696449,
+        "lng": -95.71084510535,
+        "address": "1800 Sw Randolph Ave Topeka, KS 66604, USA",
+        "created_at": "2022-02-05T12:11:29-05:00",
+        "acknowledged_at": "2022-02-05T12:11:46-05:00",
+        "closed_at": "2022-02-07T11:02:35-05:00",
+        "url": "https://seeclickfix.com/api/v2/issues/11833753",
+        "media": {
+            "video_url": null,
+            "image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFRMWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe5decb123b58a5f6acee4d06ab2bfb0cd9a9e4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU1PREF3ZURZd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--09f1d8a44f20164c6fe72999dd865d9ba60da451/img-314606265570664730767364.png",
+            "image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFRMWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe5decb123b58a5f6acee4d06ab2bfb0cd9a9e4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU5NVEF3ZURFd01GNEdPd1pVT2d4bmNtRjJhWFI1U1NJTFkyVnVkR1Z5QmpzR1ZEb0xaWGgwWlc1MFNTSU1NVEF3ZURFd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--987606a05f088ac27025b02d2b2476998a5ac02d/img-314606265570664730767364.png",
+            "representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFRMWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe5decb123b58a5f6acee4d06ab2bfb0cd9a9e4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hCaGRYUnZYMjl5YVdWdWRGUTZDbk4wY21sd1ZEb0xjbVZ6YVhwbFNTSU5NVEF3ZURFd01GNEdPd1pVT2d4bmNtRjJhWFI1U1NJTFkyVnVkR1Z5QmpzR1ZEb0xaWGgwWlc1MFNTSU1NVEF3ZURFd01BWTdCbFE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--987606a05f088ac27025b02d2b2476998a5ac02d/img-314606265570664730767364.png"
+        }
+    }, {
+        "id": 11831765,
+        "status": "Acknowledged",
+        "summary": "Junk Yard?",
+        "description": "This is located a crossed the alley from my house.  It has been that way for a long time.  The owner appears not to want to clean it up. I have other pictures.",
+        "lat": 39.0425579804194,
+        "lng": -95.6929109784276,
+        "address": "1206 Sw 13th St Topeka, KS, 66604, USA",
+        "created_at": "2022-02-04T18:26:26-05:00",
+        "acknowledged_at": "2022-02-04T18:26:39-05:00",
+        "closed_at": null,
+        "url": "https://seeclickfix.com/api/v2/issues/11831765",
+        "media": {
+            "video_url": null,
+            "image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVRHWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--51b0f5a20585eadf3139250db0f95abfc456fbf9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/6202019-_MG_8891.jpg",
+            "image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVRHWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--51b0f5a20585eadf3139250db0f95abfc456fbf9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/6202019-_MG_8891.jpg",
+            "representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVRHWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--51b0f5a20585eadf3139250db0f95abfc456fbf9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/6202019-_MG_8891.jpg"
+        }
+    }, {
+        "id": 11831592,
+        "status": "Closed",
+        "summary": "Utility Work Damage",
+        "description": "Shawnee county trash service ripped off a limb of a 50 year old red-bud tree in front of my house today retrieving my neighbors trash cans. Split the whole trunk/branch and will probably result in a loss of the whole tree in these temperatures.  This tree is older than me.",
+        "lat": 39.0322619858348,
+        "lng": -95.6947560029546,
+        "address": "1307 Sw 20th St Topeka, KS, 66604, USA",
+        "created_at": "2022-02-04T17:36:48-05:00",
+        "acknowledged_at": "2022-02-04T17:37:01-05:00",
+        "closed_at": "2022-02-09T13:43:48-05:00",
+        "url": "https://seeclickfix.com/api/v2/issues/11831592",
+        "media": {
+            "video_url": null,
+            "image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDNGWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1bbea6a96885cc62dbb8c39505aec9c0522c662/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/20220204_135225.jpg",
+            "image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDNGWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1bbea6a96885cc62dbb8c39505aec9c0522c662/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/20220204_135225.jpg",
+            "representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDNGWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1bbea6a96885cc62dbb8c39505aec9c0522c662/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/20220204_135225.jpg"
+        }
+    }, {
+        "id": 11831372,
+        "status": "Closed",
+        "summary": "Street Sign Repair",
+        "description": "direction arrow sign at the end of high street is missing.  ",
+        "lat": 39.0515705351928,
+        "lng": -95.6425154954195,
+        "address": "200 Se High St Topeka, KS 66607, USA",
+        "created_at": "2022-02-04T16:48:11-05:00",
+        "acknowledged_at": "2022-02-04T16:48:15-05:00",
+        "closed_at": "2022-02-07T16:24:28-05:00",
+        "url": "https://seeclickfix.com/api/v2/issues/11831372",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories/signs-3b1fbd7c0827d225d542f5d5261fecd44f62526a8087b0372f397a12d6069c0e.png"
+        }
+    }, {
+        "id": 11831336,
+        "status": "Closed",
+        "summary": "Street Sign Repair",
+        "description": "grafitti on speed sign and direction sign",
+        "lat": 39.0515580375052,
+        "lng": -95.6413095071912,
+        "address": "203 Se Alkire St Topeka, KS 66607, USA",
+        "created_at": "2022-02-04T16:42:16-05:00",
+        "acknowledged_at": "2022-02-04T16:42:37-05:00",
+        "closed_at": "2022-02-07T16:24:40-05:00",
+        "url": "https://seeclickfix.com/api/v2/issues/11831336",
+        "media": {
+            "video_url": null,
+            "image_full": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFBFWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4d72b00004bf1bb47a22a4184c7f4ef5a31b923/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklndzRNREI0TmpBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--ee2a5b821fe0552ba6053903421e37a595d06845/img-image-109638643814654334456329.jpg",
+            "image_square_100x100": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFBFWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4d72b00004bf1bb47a22a4184c7f4ef5a31b923/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/img-image-109638643814654334456329.jpg",
+            "representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFBFWEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4d72b00004bf1bb47a22a4184c7f4ef5a31b923/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/img-image-109638643814654334456329.jpg"
+        }
+    }, {
+        "id": 11827220,
+        "status": "Closed",
+        "summary": "Property Maintenance & Code Violations",
+        "description": "white car in yard, animal trailer & camper. All on grass. None of these are currently tagged. Also goats in yard. ..",
+        "lat": 39.0458873,
+        "lng": -95.6458044,
+        "address": "540 Se Burr St Topeka KS 66607, United States",
+        "created_at": "2022-02-03T19:41:04-05:00",
+        "acknowledged_at": "2022-02-03T19:41:08-05:00",
+        "closed_at": "2022-02-08T19:01:54-05:00",
+        "url": "https://seeclickfix.com/api/v2/issues/11827220",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/assets/categories/graffiti-bf47e3ce79d23ec08d14adde546af57391787379e5493ff19259edb0ba9d7fab.png"
+        }
+    }, {
+        "id": 11826398,
+        "status": "Closed",
+        "summary": "Other",
+        "description": "\"Sidewalk\" option not available for reporting snow/ice hazards ",
+        "lat": 39.0515065505452,
+        "lng": -95.6989619070573,
+        "address": "1710 Sw Tenth Ave Topeka KS 66604, United States",
+        "created_at": "2022-02-03T15:50:13-05:00",
+        "acknowledged_at": "2022-02-03T15:50:22-05:00",
+        "closed_at": "2022-02-10T10:41:56-05:00",
+        "url": "https://seeclickfix.com/api/v2/issues/11826398",
+        "media": {
+            "video_url": null,
+            "image_full": null,
+            "image_square_100x100": null,
+            "representative_image_url": "https://seeclickfix.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlVuWFE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d77a3b52e9f335d4b6a50f13425f10bda2db900b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RUdGMWRHOWZiM0pwWlc1MFZEb0tjM1J5YVhCVU9ndHlaWE5wZW1WSklnMHhNREI0TVRBd1hnWTdCbFE2REdkeVlYWnBkSGxKSWd0alpXNTBaWElHT3daVU9ndGxlSFJsYm5SSklnd3hNREI0TVRBd0Jqc0dWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c6de1b85bcf6bb709fd9765dc81479dcfbbcac37/image.jpg"
+        }
+    }],
+    "metadata": {
+        "pagination": {
+            "entries": 182,
+            "page": 1,
+            "per_page": 20,
+            "pages": 10,
+            "next_page": 2,
+            "next_page_url": "https://seeclickfix.com/api/v2/issues?fields%5Bissue%5D=id%2Csummary%2Cdescription%2Cstatus%2Clat%2Clng%2Caddress%2Cmedia%2Ccreated_at%2Cacknowledged_at%2Cclosed_at&max_lat=39.052118348329074&max_lng=-95.6312656402588&min_lat=39.03211937423035&min_lng=-95.71889877319336&page=2&status=open%2Cacknowledged%2Cclosed",
+            "previous_page": null,
+            "previous_page_url": null
+        }
+    },
+    "errors": {}
+}
