@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+config.py
+all_issues.csv
+all_issues.csv
