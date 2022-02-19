@@ -102,3 +102,21 @@ group by status
 select status,avg(time_to_resolve) from all_issues
 group by status
 
+
+select * from status
+update status
+set status = 'Ack'
+where id = 2
+
+delete from status where id = 3
+
+select * from all_issues
+
+
+select * from summary
+select * from issues where summaryid=17
+update issues
+set summaryid= (select id from summary where summary='Other')
+where summaryid=17
+
+delete from summary where id = 17
